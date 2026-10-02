@@ -5,22 +5,18 @@
 * **Disciplina:** Design Profissional
 ---
 ## Tabela de Exercícios e Comprovações
-| Nº | Nome do Desafio / Lição | Breve Explicação | Status na Plataforma
-| Imagem Comprobatória |
 
-| :---: | :--- | :--- | :---: | :---: |
+| 01 | capítulo 1 Coddy | Uso de printf/ variveis int / float / double / char |Aprovado | ![VerImagem](./prints/print_04.png) |
+| :--- | :--- | :--- | :--- | :--- |
 
-| 01 | capítulo 1 Coddy | Uso de printf/ variveis int / float / double / char | Aprovado | ![Ver
-Imagem](./prints/print_04.png) |
+| 02 | imagens em link  | utilizando uma âncora junto com "img" transformo uma imagem em link | Aprovado | ![Ver Imagem](./prints/print_02.png) |
+| :--- | :--- | :--- | :--- | :--- |
 
-| 02 | imagens em link  | utilizando uma âncora junto com "img" transformo uma imagem em link 
-| Aprovado | ![Ver Imagem](./prints/print_02.png) |
+| 03 | adicionando legnda na imagem  | utilizando a tag `FIGCAPTON` dentro de uma tag `FIGURE` criamos uma lengenda para a imagem| Aprovado | ![Ver Imagem](./prints/print_01.png) |
+| :--- | :--- | :--- | :--- | :--- |
 
-| 03 | adicionando legnda na imagem  | utilizando a tag `FIGCAPTON` dentro de uma tag `FIGURE` criamos uma lengenda para a imagem
-| Aprovado | ![Ver Imagem](./prints/print_01.png) |
-
-| 04 | pagina com fotos de gatos finalizada | utilizando os comando dentro do HTML foi criado um site com imagens, links, listas ordenadas e não ordenadas.
-| Aprovado | ![Ver Imagem](./prints/print_03.png) |
+| 04 | pagina com fotos de gatos finalizada | utilizando os comando dentro do HTML foi criado um site com imagens, links, listas ordenadas e não ordenadas.| Aprovado | ![Ver Imagem](./prints/print_03.png) |
+| :--- | :--- | :--- | :--- | :--- |
 
 ---
 
